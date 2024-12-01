@@ -1,0 +1,1 @@
+![architecture](./InureTech_технологическая%20архитектура_to-be.png)
